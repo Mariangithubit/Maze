@@ -1,5 +1,5 @@
-The Maze
-
+![Maze 2](https://github.com/Mariangithubit/Maze/assets/125896481/a4ba648a-0d96-4fe8-8257-3d8aae493b8f)
+![Maze 2](https://github.com/Mariangithubit/Maze/assets/125896481/0b14fd78-f75c-4757-837c-1e0431c02ffb)
 The Maze
 
 Introduction The 3D-Maze Solver project aimed to look at how it is possible to do a game without a game engine and develop an interactive maze-solving application using SDL2, offering a combination of entertainment and algorithmic challenges.
